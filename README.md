@@ -1,2 +1,3 @@
-# Portfolio
-Welcome to my GitHub portfolio! This repository showcases my projects in programming, database management, web development, and software design. Each project includes code, documentation, and a summary of technologies used. Feel free to explore and provide any feedback or questions.
+#Portfolio
+
+Welcome to my GitHub portfolio repository! This repository showcases a collection of projects demonstrating my skills in programming, database management, web development, and software design. In particular, my enhanced Dental Clinic Management System illustrates a full understanding of the Software Development Life Cycle (SDLC), including phases like requirements analysis, system design using UML, backend programming in C++, database management with PL/SQL, interactive web development, and comprehensive software testing. Each project includes relevant documentation, source code, and a summary of the technologies used. Feel free to explore and reach out with any feedback or questions.
