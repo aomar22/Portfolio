@@ -1,0 +1,104 @@
+/* General Page Styles */
+body {
+    background-color: #2a0e2e;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centered Container */
+.container {
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Title Styling */
+h2 {
+    text-align: center;
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Search Box */
+.input-group {
+    margin: 10px 0;
+}
+
+#city-search {
+    border-radius: 5px 0 0 5px;
+}
+
+#search-btn {
+    border-radius: 0 5px 5px 0;
+}
+
+/* Error Message */
+#error-message {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Weather Display Cards */
+.card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card-header {
+    font-weight: bold;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-header img {
+    width: 32px;
+    height: 20px;
+    border-radius: 3px;
+}
+
+/* Weather Details */
+.card-body p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+/* More Info Button */
+.btn-info {
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.page-link {
+    cursor: pointer;
+}
+
+/* Modal Styling */
+.modal-content {
+    background: #eae9ec;
+    padding: 15px;
+}
+
+.modal-header {
+    background: #007bff;
+    color: white;
+}
